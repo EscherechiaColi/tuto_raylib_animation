@@ -5,9 +5,10 @@ Hello ! Apres un rapide regard au sujet, je vois que l'implémentation des anima
 
 # Mixamo
 https://www.mixamo.com/#/
+
 Ce site propose de nombreuses animations 3D gratuites, libres au téléchargement.
 
-![test](https://www.dropbox.com/s/upcjbfbfvaznu4t/Mixamo.PNG?dl=1)
+![](https://www.dropbox.com/s/upcjbfbfvaznu4t/Mixamo.PNG?dl=1)
 
 Recherchez l'animation qui vous intéresse :
 

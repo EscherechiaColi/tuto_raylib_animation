@@ -125,5 +125,6 @@ Dézoomez en scrollant avec votre pad, et voilà :
 ![](RaylibExecUnzoomed.PNG)
 
 Aaaand ... done ! Vous n'avez plus qu'à rester appuyer sur espace pour voir votre animation se jouer !
+A vous de compléter ce tuto avec le reste (typiquement... une texture) !
 
 Bon courage, j'espère que ça vous aidera !
